@@ -39,7 +39,7 @@ php artisan serve
 ## Funcionalidades
 Na aplicação, você poderá:
 
-- Criar, alterar e excluir Livros.
+- Criar, alterar, listar e excluir Livros.
 - Filtrar Livros com base no título do livro.
 
 ## Rotas da API
