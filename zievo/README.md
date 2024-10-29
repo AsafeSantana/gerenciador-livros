@@ -13,7 +13,7 @@ git clone https://github.com/AsafeSantana/gerenciador-livros.git
 cd gerenciador-livros
   ```
 
-## Configure o Banco de Dados:
+**Configure o Banco de Dados:**
     - Edite o arquivo `.env` com as credenciais do seu banco de dados MySQL.
 
 ## Instalação
