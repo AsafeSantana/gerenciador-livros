@@ -71,4 +71,4 @@ npm start
   ```
 
 ## Depois abra o navegador na URL:
-`http://localhost:3000/`
+`http://localhost:3000`
