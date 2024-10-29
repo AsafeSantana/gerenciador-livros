@@ -5,6 +5,7 @@ use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 
 
+//ROTAS
 
 Route::get('/books', [BookController::class, 'index']);
 Route::get('/books/search', [BookController::class, 'searchByTitle']);
