@@ -1,0 +1,23 @@
+.app {
+    text-align: center; 
+  
+    .header {
+      margin: 20px 0;
+  
+      .book-icon {
+        width: 45px;
+        margin-right: 8px;
+      }
+    }
+  
+    .container {
+      max-width: 800px; 
+      margin: 0 auto; 
+      padding: 0 15px; 
+  
+      @media (max-width: 768px) {
+        padding: 0 10px; 
+      }
+    }
+  }
+  
